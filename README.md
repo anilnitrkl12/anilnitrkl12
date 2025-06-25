@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Anil Kumar
 - 👀 I’m interested in Developing products
 - 🌱 Pyton-DRF, Angular, Electron, SQL, PostreSQL
-- 📫 reach me anil.nitrkl14@gmail.com/ anil.nitrkl12@gmail.com
+- 📫 reach me anil.nitrkl12@gmail.com
 
 <!---
 anilnitrkl12/anilnitrkl12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
