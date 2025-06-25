@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anil Kumar
 - 👀 I’m interested in Developing products
-- 🌱 Pyton-DRF, Angular, Electron, SQL, PostreSQL
+- 🌱 Python-DRF, Angular, Electron, SQL, PostreSQL
 - 📫 reach me anil.nitrkl12@gmail.com
 
 <!---
